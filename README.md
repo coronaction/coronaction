@@ -1,4 +1,4 @@
-# coronaction
+# [<img src="/images/coronaction-logo-with-earth.png">](https://www.coronaction.net/) coronaction
 
 Our Covid-19 tracker is live at https://www.coronaction.net
 
